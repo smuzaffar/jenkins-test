@@ -2,3 +2,4 @@
 echo OK
 
 
+echo Foo bar
